@@ -1,0 +1,4 @@
+sleep 60 
+killall mocad
+cd /root
+./testAppDevel.sh dbg
